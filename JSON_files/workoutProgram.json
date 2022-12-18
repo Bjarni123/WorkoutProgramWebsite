@@ -1,0 +1,279 @@
+{
+    "Block1": {
+        "Legs #1" : {
+            "Back Squat" : {
+                "Sets" : 4,
+                "Reps" : 5,
+                "1RM" : null,
+                "Rest" : "3-4 minutes",
+                "Set1" : null,
+                "Set2" : null,
+                "Set3" : null,
+                "Set4" : null,
+                "Notes" : "Sit back and down, 15° toe flare, drive your knees out laterally",
+                "LSRPE" : null,
+                "MAX" : null
+            },
+            "Deadlift" : {
+                "Sets" : 2,
+                "Reps" : 8,
+                "1RM" : null,
+                "Rest" : "3-4 minutes",
+                "Set1" : null,
+                "Set2" : null,
+                "Set3" : null,
+                "Set4" : null,
+                "Notes" :"Brace your lats, chest tall, hips high, pull the slack out of the bar prior to moving it off the ground",
+                "LSRPE" : null,
+                "MAX" : null
+            },
+            "Barbell Hip thrust" : {
+                "Sets" : 3,
+                "Reps" : "10-12",
+                "RPE" : null,
+                "Rest" : "2-3 minutes",
+                "Set1" : null,
+                "Set2" : null,
+                "Set3" : null,
+                "Set4" : null,
+                "Notes" :"TUCK YOUR CHIN AND RIB CAGE DOWN, ONLY MOVE YOUR HIPS. USE A PAD",
+                "LSRPE" : null
+            },
+            "Dummbell Walking Lunge" : {
+                "Sets" : 2,
+                "Reps" : "20 Each Leg",
+                "RPE" : null,
+                "Rest" : "1-2 minutes",
+                "Set1" : null,
+                "Set2" : null,
+                "Set3" : null,
+                "Set4" : null,
+                "Notes" :"TAKE MEDIUM STRIDES, MINIMIZE THE AMOUNT YOU PUSH OFF YOUR REAR LEG",
+                "LSRPE" : null
+            },
+            "A1: Leg Extension" : {
+                "Sets" : 3,
+                "Reps" : 15,
+                "RPE" : null,
+                "Rest" : "1-2 minutes",
+                "Set1" : null,
+                "Set2" : null,
+                "Set3" : null,
+                "Set4" : null,
+                "Notes" :"Focus on squeezing your quads to move the weight",
+                "LSRPE" : null
+            },
+            "A2: Seated Leg Curl" : {
+                "Sets" : 3,
+                "Reps" : 15,
+                "RPE" : null,
+                "Rest" : "1-2 minutes",
+                "Set1" : null,
+                "Set2" : null,
+                "Set3" : null,
+                "Set4" : null,
+                "Notes" :"Focus on squeezing your hamstrings to move the weight",
+                "LSRPE" : null
+            },
+            "Standing Calf raise" : {
+                "Sets" : 3,
+                "Reps" : 10,
+                "RPE" : null,
+                "Rest" : "1-2 minutes",
+                "Set1" : null,
+                "Set2" : null,
+                "Set3" : null,
+                "Set4" : null,
+                "Notes" :"Press all the way up to your toes, stretch your calves at the bottom, don't bounce",
+                "LSRPE" : null
+            } 
+        },
+        "Push #1" : {
+            "Barbell bench press" : {
+                "Sets" : 3,
+                "Reps" : 4,
+                "RPE" : null,
+                "Rest" : "2-3 minutes",
+                "Set1" : null,
+                "Set2" : null,
+                "Set3" : null,
+                "Set4" : null,
+                "Notes" :"Tuck elbows at a 45° angle, squeeze your shoulder blades and stay firm on the bench",
+                "LSRPE" : null,
+                "MAX" : null
+            },
+            "Dumbbell seated shoulder press" : {
+                "Sets" : 3,
+                "Reps" : "8-10",
+                "RPE" : null,
+                "Rest" : "2-3 minutes",
+                "Set1" : null,
+                "Set2" : null,
+                "Set3" : null,
+                "Set4" : null,
+                "Notes" :"Bring the dumbbell all the way down, keep your torso upright",
+                "LSRPE" : null,
+                "MAX" : null
+            },
+            "Weighted Dips" : {
+                "Sets" : 3,
+                "Reps" : "6-10",
+                "RPE" : null,
+                "Rest" : "1-2 minutes",
+                "Set1" : null,
+                "Set2" : null,
+                "Set3" : null,
+                "Set4" : null,
+                "Notes" :"Tuck your elbows at a 45° angle, lean your torso forward 15°, keep your scapulae retracted",
+                "LSRPE" : null
+            },
+            "Low-to-high cable flye" : {
+                "Sets" : 3,
+                "Reps" : "12-15",
+                "RPE" : null,
+                "Rest" : "1-2 minutes",
+                "Set1" : null,
+                "Set2" : null,
+                "Set3" : null,
+                "Set4" : null,
+                "Notes" :"START EXTERNALLY ROTATED WITH YOUR ELBOWS DOWN AND OUT, PULL YOUR ELBOWS (NOT HANDS) UP AND IN WHILE SLIGHTLY INTERNALLY ROTATING YOUR SHOULDER",
+                "LSRPE" : null
+            },
+            "Dumbbell isolateral skull crusher" : {
+                "Sets" : 3,
+                "Reps" : 12,
+                "RPE" : null,
+                "Rest" : "1-2 minutes",
+                "Set1" : null,
+                "Set2" : null,
+                "Set3" : null,
+                "Set4" : null,
+                "Notes" :"USE 1 DUMBBELL IN EACH HAND. KEEP YOUR ELBOWS IN A FIXED POSITION INLINE WITH THE TOP OF YOUR HEAD, PRESS THE DUMBBELL OVER YOUR HEAD (NOT IN FRONT OF YOUR FACE)",
+                "LSRPE" : null
+            },
+            "Dumbbell lateral raise" : {
+                "Sets" : 3,
+                "Reps" : 15,
+                "RPE" : null,
+                "Rest" : "1-2 minutes",
+                "Set1" : null,
+                "Set2" : null,
+                "Set3" : null,
+                "Set4" : null,
+                "Notes" :"TILT THE DUMBBELL SUCH THAT YOUR PINKY COMES UP FIRST",
+                "LSRPE" : null
+            },
+            "Ab wheel rollout" : {
+                "Sets" : 3,
+                "Reps" : 6,
+                "RPE" : null,
+                "Rest" : "1-2 minutes",
+                "Set1" : null,
+                "Set2" : null,
+                "Set3" : null,
+                "Set4" : null,
+                "Notes" :"KEEP YOUR PELVIS POSTERIORLY TILTED (SQUEEZE YOUR GLUTES), CUT THE ROM SHORT IF YOU CAN'T MAINTAIN THIS POSITION",
+                "LSRPE" : null
+            }
+
+        },
+        "Pull #1" : {
+            "1 Arm Lat pull-in" : {
+                "Sets" : 2,
+                "Reps" : "15-20",
+                "RPE" : null,
+                "Rest" : "1-2 minutes",
+                "Set1" : null,
+                "Set2" : null,
+                "Set3" : null,
+                "Set4" : null,
+                "Notes" :"LIGHT SETS, DRIVE ELBOW DOWN AND IN TOWARD SIDE, LATERALLY FLEX INTO THE DIRECTION OF PULL",
+                "LSRPE" : null
+            },
+            "Pull-up" : {
+                "Sets" : 4,
+                "Reps" : "6-8",
+                "RPE" : null,
+                "Rest" : "2-3 minutes",
+                "Set1" : null,
+                "Set2" : null,
+                "Set3" : null,
+                "Set4" : null,
+                "Notes" :"PULL YOUR ELBOWS DOWN AND IN, MINIMIZE SWINGING",
+                "LSRPE" : null
+            },
+            "Pendlay row" : {
+                "Sets" : 3,
+                "Reps" : "8-10",
+                "RPE" : null,
+                "Rest" : "2-3 minutes",
+                "Set1" : null,
+                "Set2" : null,
+                "Set3" : null,
+                "Set4" : null,
+                "Notes" :"INITIATE THE MOVEMENT WITH SCAPULAR RETRACTION, PULL TO YOUR LOWER CHEST, KEEP YOUR TORSO MOTIONLESS",
+                "LSRPE" : null
+            },
+            "Machine high row" : {
+                "Sets" : 3,
+                "Reps" : "10-12",
+                "RPE" : null,
+                "Rest" : "1-2 minutes",
+                "Set1" : null,
+                "Set2" : null,
+                "Set3" : null,
+                "Set4" : null,
+                "Notes" :"FOCUS ON SQUEEZING YOUR LATS",
+                "LSRPE" : null
+            },
+            "Seated face pulls" : {
+                "Sets" : 3,
+                "Reps" : 20,
+                "RPE" : null,
+                "Rest" : "1-2 minutes",
+                "Set1" : null,
+                "Set2" : null,
+                "Set3" : null,
+                "Set4" : null,
+                "Notes" :"PULL YOUR ELBOWS UP AND OUT, RETRACT YOUR SCAPULAE",
+                "LSRPE" : null
+            },
+            "A1: Reverse grip ez bar curl" : {
+                "Sets" : 3,
+                "Reps" : 20,
+                "RPE" : null,
+                "Rest" : "1-2 minutes",
+                "Set1" : null,
+                "Set2" : null,
+                "Set3" : null,
+                "Set4" : null,
+                "Notes" :"ARCH THE BAR OUT, NOT UP. FOCUS ON SQUEEZING YOUR FOREARMS",
+                "LSRPE" : null
+            },
+            "A2: Supinated ez bar curl" : {
+                "Sets" : 3,
+                "Reps" : 15,
+                "RPE" : null,
+                "Rest" : "1-2 minutes",
+                "Set1" : null,
+                "Set2" : null,
+                "Set3" : null,
+                "Set4" : null,
+                "Notes" :"ARCH THE BAR OUT, NOT UP. FOCUS ON SQUEEZING YOUR BICEPS",
+                "LSRPE" : null
+            },
+            "Dumbbell preacher curl" : {
+                "Sets" : 3,
+                "Reps" : 12,
+                "RPE" : null,
+                "Rest" : "1-2 minutes",
+                "Set1" : null,
+                "Set2" : null,
+                "Set3" : null,
+                "Set4" : null,
+                "Notes" :"FOCUS ON SQUEEZING YOUR BICEPS TO MOVE THE WEIGHT",
+                "LSRPE" : null
+            }
+        }
+    }
+}

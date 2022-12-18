@@ -1,23 +1,89 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>SprengjuParty</title>
+    <link rel="stylesheet" href="./CSS_files/indexStyle.css">
+    <title>Workout Program</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="stylesheet" href="CSS_files/indexStyle.css">
   </head>
 
   <body>
 
     <h1 id="header">Sjalom</h1>
 
-    <input type="text" id="input" placeholder="Input">
-    <button id="button">Nýjir stafir</button>
-    <p id="output">Whatup</p>
-    <h5 id="extraHelp">Extra</h5>
-    <h5 id="extraHelp2">Extra2</h5>
+    <table>
+      <tr>
+        <th>Legs #1</th>
+        <th>Sets</th>
+        <th>Reps</th>
+        <th>RPE/%1RM</th>
+        <th>Rest</th>
+        <th>1</th>
+        <th>2</th>
+        <th>3</th>
+        <th>4</th>
+        <th>Notes</th>
+        <th>LSRPE</th>
+      </tr>
+      <tr>
+        <td>Back Squat</td>
+        <td>4</td>
+        <td>5</td>
+        <td>70%</td>
+        <td>3-4 Min</td>
+        <td><input type="number" id="squat1" min="0" step="2.5" /></td>
+        <td><input type="number" id="squat2" min="0" step="2.5" /></td>
+        <td><input type="number" id="squat3" min="0" step="2.5" /></td>
+        <td><input type="number" id="squat4" min="0" step="2.5" /></td>
+        <td>Sit back and down, 15° toe flare, drive your knees out laterally</td>
+        <td>
+          <select>
+            <option value="0">0</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+            <option value="6">6</option>
+            <option value="7">7</option>
+            <option value="8">8</option>
+            <option value="9">9</option>
+            <option value="10">10</option>
+          </select>
+        </td>
+      </tr>
+      <tr>
+        <td>Deadlift</td>
+        <td>2</td>
+        <td>8</td>
+        <td>65%</td>
+        <td>3-4 Min</td>
+        <td><input type="number" id="deadlift1" min="0" step="2.5" /></td>
+        <td><input type="number" id="deadlift2" min="0" step="2.5" /></td>
+        <td><input type="number" id="deadlift3" min="0" step="2.5" /></td>
+        <td><input type="number" id="deadlift4" min="0" step="2.5" /></td>
+        <td>Brace your lats, chest tall, hips high, pull the slack out of the bar prior to moving it off the ground</td>
+        <td>
+          <select>
+            <option value="0">0</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+            <option value="6">6</option>
+            <option value="7">7</option>
+            <option value="8">8</option>
+            <option value="9">9</option>
+            <option value="10">10</option>
+          </select>
+        </td>
+      </tr>
+    </table>
 
+    <h4 id="jsonOutput">SUP</h4>
 
+    <script type="module" src="./JSON_files/workoutProgram.json"></script>
     <script src="JS_files/main.js"></script>
   </body>
 </html>
